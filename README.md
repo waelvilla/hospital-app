@@ -1,10 +1,13 @@
 # hospital-app
 Hospital Management System written in Java SE.
 Part 1: Accessing the system
+
 When the program first starts, the user can either access the hospital system or view information about the hospital. 
 If the user decides to view the hospital information, they will be displayed with the hospital’s name, web link, address, and phone number. 
 If the user decides to access the system they will be displayed with a menu of possible roles
 Part 2: Picking Role
+
+
 The user gets to pick a role: doctor, nurse, or patient.
 If the user picks “Doctor”, he will be displayed with 2 possibilities: Registering as a new doctor, or accessing an existing doctor profile. 
 To add a new doctor, the user will have to input the Doctor’s ID, first name, last name, date of birth, hire date, national ID, mobile phone, office phone, specialty, start working time, end working time, and department. The user will be asked if the doctor has any nurses assigned. If he does, the user will input the nurse ID’s and the system will assign these nurses to the doctor. 
