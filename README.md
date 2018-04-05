@@ -1,13 +1,12 @@
-# hospital-app
-Hospital Management System written in Java SE.
+# Hospital Management System
 
-Part 1: Accessing the system
+**Part 1: Accessing the system**
 
 - When the program first starts, the user can either access the hospital system or view information about the hospital.
 - If the user decides to view the hospital information, they will be displayed with the hospital’s name, web link, address, and phone number. 
 - If the user decides to access the system they will be displayed with a menu of possible roles
 
-Part 2: Picking Role
+**Part 2: Picking Role**
 
 
 - The user gets to pick a role: doctor, nurse, or patient.
