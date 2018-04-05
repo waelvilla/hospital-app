@@ -18,6 +18,8 @@ To add a new nurse, the user will have to input the nurse’s ID, first name, la
 To access an existing nurse profile, the user will have to input the nurse’s ID, and the system will load and display a nurse with the matching ID.
 To add a new patient, the user will have to input the patient’s hospital ID, first name, last name, date of birth, mobile phone, Social Security Number, date of first consultation (if any), and address.
 To access an existing patient profile, the user will have to input the patient’s hospital ID, and the system will load and display a patient with the matching ID.
+
 Part 2.1: Doctor functions
+
 After a doctor has been selected (by either creating a new one or accessing an existing one), the user will be displayed with a list of the possible functions: add new consultation report to a patient, view previous consultation reports the doctor made, change the doctor’s information, or get new nurses assigned. 
 If the user decides to add a new consultation report, the patient must have made an appointment with this doctor. The user will have to enter the patient’s ID, which the system uses to check if the patient has made an appointment. If an appointment is found, the user will have to input the patient’s temperature, blood pressure, height, weight, symptoms, and prescribed medicine. The consultation report will be written in the patient’s medical report. 
