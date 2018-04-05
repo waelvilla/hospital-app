@@ -1,0 +1,77 @@
+NurseID: N001
+Nurse Sarah Clarkson 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Emergency Medicine                                 
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N002
+Nurse Janna Thomson 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Internal Medicine                                 
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N003
+Nurse Katarina Elderson 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Dentistry                      
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N004
+Nurse Emma White 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Dentistry                      
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N005
+Nurse Sophia Brown 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Dentistry                      
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N006
+Nurse Ken Brown 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Emergency Medicine                                                    
+Start Working Time:06:00:00
+End Working Time:18:00:00
+
+NurseID: N007
+Nurse Ahmed Ali 
+Date of Birth: 9/8/1990 
+NationalID: 123765223 
+Mobile Phone: 966-55-8877 
+Hire Date: 1/1/2017 
+Office Phone: 966-11-4821 
+Speciality:                       Dentistry                      
+Start Working Time:06:00:00
+End Working Time:18:00:00
+

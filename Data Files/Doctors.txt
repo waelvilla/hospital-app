@@ -1,0 +1,60 @@
+DoctorID: D001 
+Dr. Dexter Morgan 
+Date of Birth: 5/4/1980 
+NationalID: 123765467 
+Mobile Phone: 966-55-5486 
+Hire Date: 1/1/2009 
+Office Phone: 966-11-5435 
+Speciality:                   Heart Surgery                                 
+Start Working Time:08:00:00
+End Working Time:17:00:00
+Department:Internal Medicine
+
+DoctorID: D002 
+Dr. Lucas Lopez 
+Date of Birth: 1/8/1978 
+NationalID: 123765457 
+Mobile Phone: 966-55-6985 
+Hire Date: 1/1/2010 
+Office Phone: 966-11-369 
+Speciality:                    Pediatric Medicine                                 
+Start Working Time:08:00:00
+End Working Time:17:00:00
+Department:Pediatrics
+
+DoctorID: D003 
+Dr. Khalid Khalifa 
+Date of Birth: 27/6/1997 
+NationalID: 009 
+Mobile Phone: 999-99-123 
+Hire Date: 12/8/2012 
+Office Phone: 999-11-321 
+Speciality:                    Sample Analysis                           
+Start Working Time:08:00:00
+End Working Time:16:00:00
+Department:Laboratory
+
+DoctorID: D004 
+Dr. Abdulaziz Nasir 
+Date of Birth: 1/2/1990 
+NationalID: 088 
+Mobile Phone: 999-99-994 
+Hire Date: 1/1/2014 
+Office Phone: 999-99-994 
+Speciality:                   Assistant Surgeon                   
+Start Working Time:08:00:00
+End Working Time:17:00:00
+Department:Internal Medicine
+
+DoctorID: D005 
+Dr. Hasan Omar 
+Date of Birth: 12/2/1980 
+NationalID: 1005 
+Mobile Phone: 999-99-995 
+Hire Date: 22/4/2015 
+Office Phone: 999-99-955 
+Speciality:                    Assistant Doctor                    
+Start Working Time:07:00:00
+End Working Time:16:00:00
+Department:Dentistry
+

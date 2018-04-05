@@ -1,0 +1,64 @@
+HospitalID: P001
+Patient Name: Rick Grimes 
+Date of Birth: 1/2/1970 
+NationalID: 123765432 
+Mobile Phone: 966-11-9374 
+SSN: 534-13-999 A 
+First Consultation Date: 1/2/2013
+Address: King Fahd, 2, 12588, Riyadh, KSA
+[Consultation Report:
+AppointmentID: A001
+PatientID: P001
+DoctorID: D001
+Doctor: Dr. Dexter Morgan
+Appointment Date: 5/4/2016
+Appointment Time: 09:00:00
+price ($): 300.0
+Blood pressure: 120/80
+Temperature: 37.00 C 
+Height: 180.0 
+Weight: 100.0
+Symptoms: coughing
+Medicine: cough syrup
+, Consultation Report:
+AppointmentID: A002
+PatientID: P001
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 5/6/2016
+Appointment Time: 11:30:00
+price ($): 250.0
+Blood pressure: 118/87
+Temperature: 37.50 C 
+Height: 180.0 
+Weight: 100.0
+Symptoms: sneezing
+Medicine: cold medicine
+]
+
+
+HospitalID: P002
+Patient Name: Daryl Dixon 
+Date of Birth: 4/6/1984 
+NationalID: 12399943 
+Mobile Phone: 966-11-9532 
+SSN: 987-52-596 B 
+First Consultation Date: 3/3/2013
+Address: Olaya St, 3, 3155, Riyadh, KSA
+[Consultation Report:
+AppointmentID: A003
+PatientID: P002
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 3/3/2016
+Appointment Time: 12:20:00
+price ($): 0.0
+Blood pressure: 115/81
+Temperature: 37.70 C 
+Height: 170.0 
+Weight: 95.0
+Symptoms: fever
+Medicine: panadol
+]
+
+

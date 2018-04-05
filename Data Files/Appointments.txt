@@ -1,0 +1,48 @@
+AppointmentID: A001
+PatientID: P001
+DoctorID: D001
+Doctor: Dr. Dexter Morgan
+Appointment Date: 5/4/2016
+Appointment Time: 09:00:00
+price ($): 300.0
+
+AppointmentID: A002
+PatientID: P001
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 5/6/2016
+Appointment Time: 11:30:00
+price ($): 250.0
+
+AppointmentID: A003
+PatientID: P002
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 3/3/2016
+Appointment Time: 12:20:00
+price ($): 0.0
+
+AppointmentID: A001
+PatientID: P001
+DoctorID: D001
+Doctor: Dr. Dexter Morgan
+Appointment Date: 5/4/2016
+Appointment Time: 09:00:00
+price ($): 300.0
+
+AppointmentID: A002
+PatientID: P001
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 5/6/2016
+Appointment Time: 11:30:00
+price ($): 250.0
+
+AppointmentID: A003
+PatientID: P002
+DoctorID: D002
+Doctor: Dr. Lucas Lopez
+Appointment Date: 3/3/2016
+Appointment Time: 12:20:00
+price ($): 0.0
+
